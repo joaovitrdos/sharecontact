@@ -1,4 +1,4 @@
-package com.sharecontact
+package com.anonymous.sharecontact
 
 import android.app.Application
 import android.content.res.Configuration

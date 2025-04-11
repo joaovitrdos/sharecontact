@@ -1,4 +1,4 @@
-package com.sharecontact
+package com.anonymous.sharecontact
 
 import android.os.Build
 import android.os.Bundle
